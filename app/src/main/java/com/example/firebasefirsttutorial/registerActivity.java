@@ -54,6 +54,7 @@ public class registerActivity extends AppCompatActivity {
                     Toast.makeText(registerActivity.this, "PASSWORD IS SHORT", Toast.LENGTH_SHORT).show();
                 } else {
                     registerUser(txt_email,txt_password);}
+                //bhhhh
             }
         });
 
